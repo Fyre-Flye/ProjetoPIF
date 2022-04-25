@@ -28,4 +28,4 @@ Clone o repositório numa nova pasta
 
 <code> git clone https://github.com/DjdogeGamer/ProjetoPIF/edit/main/README.md </code>
 
-Apenas dê "F5" para rodar o main pelo MAKEFILE, não execute diretamente pelo "play"
+Apenas selecione o código do "main.c" dê "F5" para rodar o makefile, não execute diretamente pelo "play"
