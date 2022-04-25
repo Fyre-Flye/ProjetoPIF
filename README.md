@@ -15,7 +15,7 @@ Abra o terminal
 </code>
 <br>
 <code>
-  3) bootstrap-vcpkg.bat
+  3) .\bootstrap-vcpkg.bat
 </code>
 <br>
 <code>
