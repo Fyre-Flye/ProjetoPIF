@@ -32,4 +32,4 @@ Tendo todos os arquivos instalados sem erro, clone o repositório numa nova past
 
 <code> git clone https://github.com/DjdogeGamer/ProjetoPIF/edit/main/README.md </code>
 
-Dentro do VS Code, Apenas selecione o código do "main.c" dê "F5" para rodar o makefile. (não execute diretamente pelo "play")
+Dentro do VS Code, Apenas selecione o código do "main.c" e pressiona "F5" para rodar o Makefile. (não execute diretamente pelo "play")
