@@ -1,10 +1,10 @@
-# ProjetoPIF
+# ProjetoPIF - RayLib para VSCODE
 
 Caso ainda não tenha o RayLib instalado siga os seguintes comandos:
 * Garanta ter o git instalado em sua máquina 
 * Usar windows terminal (de preferência) ou powershell
 
-Abra o terminal
+Abra o terminal (no root padrão do sistema)
 
 <code>
   1) git clone https://github.com/Microsoft/vcpkg.git
@@ -32,4 +32,4 @@ Tendo todos os arquivos instalados sem erro, clone o repositório numa nova past
 
 <code> git clone https://github.com/DjdogeGamer/ProjetoPIF/edit/main/README.md </code>
 
-Apenas selecione o código do "main.c" dê "F5" para rodar o makefile, não execute diretamente pelo "play"
+Dentro do VS Code, Apenas selecione o código do "main.c" dê "F5" para rodar o makefile, não execute diretamente pelo "play"
