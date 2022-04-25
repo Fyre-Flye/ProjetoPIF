@@ -32,6 +32,6 @@ Tendo todos os arquivos instalados sem erros, o RayLib.h estará compilado no si
 
 Clone o repositório numa nova pasta com:
 
-<code> git clone https://github.com/DjdogeGamer/ProjetoPIF/edit/main/README.md </code>
+<code> git clone https://github.com/DjdogeGamer/ProjetoPIF </code>
 
 Dentro do VS Code, Apenas selecione o código do "main.c" e pressione "F5" para rodar o Makefile. (não execute diretamente pelo "play")
