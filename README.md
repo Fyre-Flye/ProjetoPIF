@@ -2,7 +2,7 @@
 
 Caso ainda não tenha o RayLib instalado siga os seguintes comandos:
 * Garanta ter o git instalado em sua máquina 
-* Usar windows terminal ou powershell
+* Usar windows terminal (de preferência) ou powershell
 
 Abra o terminal
 
