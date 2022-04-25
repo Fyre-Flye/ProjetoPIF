@@ -22,6 +22,7 @@ Caso ainda não tenha o RayLib instalado siga os seguintes comandos:
   5) .\vcpkg install raylib  
 </code>
 <br>
+<br>
 
 Clone o repositório numa nova pasta
 
