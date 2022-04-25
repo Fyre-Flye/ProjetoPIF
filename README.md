@@ -28,7 +28,7 @@ Abra o terminal
 <br>
 <br>
 
-Tendo todos os arquivos instalados sem erro clone o repositório numa nova pasta com:
+Tendo todos os arquivos instalados sem erro, clone o repositório numa nova pasta com:
 
 <code> git clone https://github.com/DjdogeGamer/ProjetoPIF/edit/main/README.md </code>
 
