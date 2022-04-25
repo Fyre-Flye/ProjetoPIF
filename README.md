@@ -1,7 +1,10 @@
 # ProjetoPIF
 
 Caso ainda não tenha o RayLib instalado siga os seguintes comandos:
-* Garanat ter o git instalado (obviamente)
+* Garanta ter o git instalado em sua máquina 
+* Usar windows terminal ou powershell
+
+Abra o terminal
 
 <code>
   1) git clone https://github.com/Microsoft/vcpkg.git
@@ -25,9 +28,7 @@ Caso ainda não tenha o RayLib instalado siga os seguintes comandos:
 <br>
 <br>
 
-* Tendo todos os arquivos instalados sem erro...
-
-Clone o repositório numa nova pasta com: 
+Tendo todos os arquivos instalados sem erro clone o repositório numa nova pasta com:
 
 <code> git clone https://github.com/DjdogeGamer/ProjetoPIF/edit/main/README.md </code>
 
