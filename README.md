@@ -1,6 +1,6 @@
 # ProjetoPIF - RayLib para VSCODE
 
-Caso ainda não tenha o RayLib, instalado siga os seguintes comandos:
+Caso ainda não tenha o RayLib instalado, siga os seguintes comandos:
 * Garanta ter o git e vscode instalado em sua máquina 
 * Usar Windows Terminal (de preferência) ou PowerShell
 
