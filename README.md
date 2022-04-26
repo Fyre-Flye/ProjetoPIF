@@ -6,7 +6,7 @@
 * Guilherme Lopes
 
 # Descrição do Projeto
-Video game de RPG em pixel art com sistema de batalha e exploração em turnos utilizando a lib gráfica RayLib, baseado nas mecânicas de Earthbound, Pokémon, Final Fantasy, ambientado no Porto Digital/Cesar School com 4 personagens principais onde terão que investigar uma invasão alienígena que pretende roubar as tecnologias aqui produzidas e também terão que defender o Porto Digital das ameaças dessa invasão.
+Video game de RPG em pixel art de exploração, com sistema de batalha em turnos utilizando a lib gráfica RayLib, baseado nas mecânicas de Earthbound, Pokémon, Final Fantasy, ambientado no Porto Digital/Cesar School com 4 personagens principais onde terão que investigar uma invasão alienígena que pretende roubar as tecnologias aqui produzidas e também terão que defender o Porto Digital das ameaças dessa invasão.
 
 # Instrução para instalar o RayLib para VSCODE via MS-VCPKG
 
@@ -42,6 +42,6 @@ Tendo todos os arquivos instalados sem erros, o RayLib.h estará compilado no si
 
 Clone o repositório numa nova pasta com:
 
-<code> git clone https://github.com/DjdogeGamer/ProjetoPIF </code>
+<code>git clone https://github.com/DjdogeGamer/ProjetoPIF</code>
 
 Dentro do VS Code, Apenas selecione o código do "main.c" e pressione "F5" para rodar o Makefile. (não execute diretamente pelo "play")
